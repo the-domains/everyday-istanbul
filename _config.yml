@@ -1,0 +1,28 @@
+name: Everyday Istanbul
+favicon: null
+layout_spectrum: 0.16935798432677984
+typography_spectrum: 0.731426177546382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4553505298681557
+  lightness: 0.9367834466975182
+  saturation: 0.31982214958406985
+  rhythmicContrast: 0.41328195994719863
+purpose: []
